@@ -1,0 +1,13 @@
+.experience-content-ctn {
+  padding: 42px 0;
+  background-image: url('../../assets/img/header/Fondoamarrillo.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: top;
+}
+
+.experience-content-ctn-description {
+  margin-top: 120px;
+  padding: 0 32px;
+  font-size: var(--txt-p-xl);
+}

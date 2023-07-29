@@ -1,0 +1,69 @@
+{
+    "experiences": [
+        {
+            "id": "rutas-gastronomicas",
+            "urlVideoTop": "https://www.youtube.com/embed/4nFgp8WdJI0?&autoplay=1",
+            "title": "Rutas Gastronómicas",
+            "gallery": [
+                {
+                    "imageUrl": "routesGastronomicGallery/Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+                    "title": "Cochinita Pibil"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Gastronomia-Vaporcitos-HaciendaOchil51.webp",
+                    "title": "Vaporcitos (tamales) de Quintana Roo"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/HGO_acatlan_4_11zon.webp",
+                    "title": "Elotes Acatlán, Hidalgo"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/HGO_t2_actopan_356-_1__11zon.webp",
+                    "title": "Taco de chinicuiles (gusanos de Maguey), Actopan, Hidalgo"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/MEX_avandaro_t__147_11zon.webp",
+                    "title": "Torre de mariscos, Avándaro"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Papadzules5_11zon.webp",
+                    "title": "Papadzules yucatecos"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Papadzules_11zon.webp",
+                    "title": "Papadzules yucatecos"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712_11zon.webp",
+                    "title": "Chile en nogada, Puebla"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Qroo_Lorenzillos_girls63-2_11zon.webp",
+                    "title": "Del mar a su plato"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/TMPS_tampico_2_131_11zon.webp",
+                    "title": "Platón de mariscos, Tampico Tamaulipas"
+                },
+                {
+                    "imageUrl": "routesGastronomicGallery/Yucatan_Foto_13.webp",
+                    "title": "Gastronomía Yucateca"
+                }
+            ],
+            "description": [
+                {
+                    "text": "México es sabor, pero también tradición y cultura. Es tal la importancia de la gastronomía de nuestro país que, en 2010, la UNESCO nombró a la Cocina Tradicional Mexicana, Patrimonio Cultural e Inmaterial de la Humanidad. La Cocina Mexicana es un factor fundamental de identidad cultural, cohesión social, y un factor de desarrollo comunitario."
+                },
+                {
+                    "text": "En nuestro país podrás encontrar un sinfín de ingredientes y platillos únicos, que ayudarán a que tu visita sea inolvidable. Tenemos una oferta gastronómica inmensa, más de 584 mil restaurantes, y dos de ellos entre los mejores 10 del mundo, ambos en la ciudad de México."
+                },
+                {
+                    "text": "La cultura gastronómica de México es descomunal. Sabores para todos los gustos, olores y texturas que despertarán tu apetito. Los mejores productos que el mar, la tierra y el cielo tienen que ofrecer, algunos de ellos con denominación de origen, serán servidos en tu plato para que disfrutes de la identidad, creatividad y, sobre todo, de hospitalidad."
+                },
+                {
+                    "text": "Conoce nuestras rutas gastronómicas, planeadas minuciosamente para que puedas saborear lo que es México."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+.home-loading-ctn {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-loading {
+    width: 70vw;
+    animation-name: blinker;
+    animation: blinker 1.5s infinite;
+}
+
+@keyframes blinker {
+
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
