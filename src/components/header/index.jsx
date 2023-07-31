@@ -62,7 +62,7 @@ const Header = () => {
         }
       ]
     },
-    { name:"blog", 
+    { name:"Blog", 
       dir: "/blog"
     },
     { name:"Guías Turísticas", 
